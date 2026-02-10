@@ -3,7 +3,7 @@
 ## Student Information
 - **Student Name:** Chitambo Chansonso  
 - **Student ID:** 2506283672  
-- **GitHub Repository:** <https://github.com/chitambochansonso052-tech/IWEEE>  
+- **GitHub Repository:** https://github.com/chitambochansonso052-tech/IWEEE-VSC
 
 ---
 
