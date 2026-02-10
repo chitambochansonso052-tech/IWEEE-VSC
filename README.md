@@ -13,13 +13,7 @@ The site contains:
 - **Homepage** with artist name, tagline, and navigation  
 - **About Section** with biography and artist image  
 - **Music Section** with track list and audio player  
-- **Shows Section** with upcoming events in a table  
-- **Contact Section** with booking form  
-- **Footer** with copyright and back‑to‑top link  
-
-This structure demonstrates semantic HTML and organized content.
-
----
+- **Shows Section** with upcoming events in a
 
 ## Question 2: HTML Elements
 1. **Challenging Elements**
